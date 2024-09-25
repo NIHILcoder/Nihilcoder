@@ -94,6 +94,6 @@ I am an AI artist specializing in creating artistic content using **dark** artif
 
 
 
-<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" alt="Alt text" style=" width=200" height="400" />
+<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" alt="Alt text" style=" width=300" height="500" />
 
   ## 									🖤 Thank you for visiting my profile! 🖤
