@@ -2,11 +2,11 @@
 
 ## *Eng*:
 
-I am an AI artist specializing in creating artistic content using **dark** artificial intelligence technologies. I utilize tools like **ComfyUI** and **Stable Diffusion**, and I am actively studying **Python** to deepen my expertise.
+I am a programmer and an AI artist specializing in creating artistic content using **dark** artificial intelligence technologies. My work involves utilizing tools like **ComfyUI** and **Stable Diffusion**, allowing me to blend programming skills with artistic expression. I am currently actively studying **Python** to enhance my development skills and broaden my capabilities in creating innovative projects.
 
 ## *Rus*:
 
-Я AI художник, специализирующийся на создании художественного контента с использованием технологий искусственного интеллекта. Я использую такие инструменты, как ComfyUI и Stable Diffusion, и активно изучаю Python.
+Я программист и художник в области ИИ, специализирующийся на создании художественного контента с использованием **темных** технологий искусственного интеллекта. Моя работа включает использование таких инструментов, как **ComfyUI** и **Stable Diffusion**, что позволяет мне сочетать навыки программирования и художественного выражения. В данный момент я активно изучаю **Python**, чтобы улучшить свои навыки разработки и расширить возможности в создании инновационных проектов.
 
 <div align="center"> 
 <img src="https://imgur.com/910B91H.png" style="zoom:110%;" />
