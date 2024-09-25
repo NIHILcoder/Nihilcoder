@@ -6,7 +6,7 @@ I am an AI artist specializing in creating artistic content using **dark** artif
 
 ## *Rus*:
 
-Я AI художник, специализирующийся на создании художественного контента с использованием технологий искусственного интеллекта. Я использую такие инструменты, как ComfyUI и Stable Diffusion, и активно изучаю Python, чтобы углубить свои знания.
+Я AI художник, специализирующийся на создании художественного контента с использованием технологий искусственного интеллекта. Я использую такие инструменты, как ComfyUI и Stable Diffusion, и активно изучаю Python.
 
 <div align="center"> 
 <img src="https://imgur.com/910B91H.png" style="zoom:110%;" />
@@ -89,7 +89,8 @@ I am an AI artist specializing in creating artistic content using **dark** artif
 | **Contact**                          |
 | ------------------------------------ |
 | [Telegram](https://t.me/Proxy_Nihil) |
-
+| [Gist.Github](https://gist.github.com/NIHILcoder)|
+| [Gmail](kostopravd@gmail.com)        |
 ---
 
 
