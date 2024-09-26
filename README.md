@@ -34,6 +34,9 @@ I am a programmer and an AI artist specializing in creating artistic content usi
 
 - **Python**: Использую для разработки моделей машинного обучения и нейросетей.
 - **Stable Diffusion и ComfyUI**: Основные инструменты для генерации изображений на основе текстовых описаний.
+<div align="center"> 
+<img src="https://imgur.com/7t1zyEL.png" style="zoom:11;" />
+</div>
 
 ----------------------------
 
