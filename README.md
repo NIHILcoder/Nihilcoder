@@ -1,12 +1,6 @@
 # 🖤**Proxy Nihil**🖤
 
-## *Eng*:
-
 I am a programmer and an AI artist specializing in creating artistic content using **dark** artificial intelligence technologies. My work involves utilizing tools like **ComfyUI** and **Stable Diffusion**, allowing me to blend programming skills with artistic expression. I am currently actively studying **Python** to enhance my development skills and broaden my capabilities in creating innovative projects.
-
-## *Rus*:
-
-Я программист и художник в области ИИ, специализирующийся на создании художественного контента с использованием **темных** технологий искусственного интеллекта. Моя работа включает использование таких инструментов, как **ComfyUI** и **Stable Diffusion**, что позволяет мне сочетать навыки программирования и художественного выражения. В данный момент я активно изучаю **Python**, чтобы улучшить свои навыки разработки и расширить возможности в создании инновационных проектов.
 
 <div align="center"> 
 <img src="https://imgur.com/910B91H.png" style="zoom:110%;" />
@@ -17,8 +11,6 @@ I am a programmer and an AI artist specializing in creating artistic content usi
 </div>
 
 -------------
-
-
 
 ## 🌑 Interests
 
@@ -32,8 +24,8 @@ I am a programmer and an AI artist specializing in creating artistic content usi
 
 ## ⚙️ Tech Stack
 
-- **Python**: Использую для разработки моделей машинного обучения и нейросетей.
-- **Stable Diffusion и ComfyUI**: Основные инструменты для генерации изображений на основе текстовых описаний.
+- **Python**: I use it to develop machine learning and neural network models.
+- **Stable Diffusion и ComfyUI**: Basic tools for generating images from text descriptions.
 <div align="center"> 
 <img src="https://imgur.com/7t1zyEL.png" style="zoom:11;" />
 </div>
@@ -95,7 +87,5 @@ I am a programmer and an AI artist specializing in creating artistic content usi
 | [Gist.Github](https://gist.github.com/NIHILcoder)|
 | [Gmail](kostopravd@gmail.com)        |
 ---
-
-
 
 <img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" alt="Alt text" style=" width=300" height="500" />
