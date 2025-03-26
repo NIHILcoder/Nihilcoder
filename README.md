@@ -18,7 +18,7 @@ push the boundaries of digital art generation and neural network implementation.
 ### Web Development
 
 ```
-Frontend         | Backend          | DevOps            | Design
+Frontend        | Backend          | DevOps            | Design
 ----------------|------------------|-------------------|------------------
 React.js        | Node.js          | Docker            | UI/UX Architecture
 Vue.js          | Express          | AWS               | Design Systems
@@ -30,7 +30,7 @@ TailwindCSS     | MongoDB          | Linux             | Responsive Design
 ### Artificial Intelligence
 
 ```
-Frameworks       | Specializations  | Research Areas
+Frameworks      | Specializations  | Research Areas
 ----------------|------------------|------------------
 PyTorch         | Image Generation | Neural Architecture
 TensorFlow      | Diffusion Models | Transfer Learning
