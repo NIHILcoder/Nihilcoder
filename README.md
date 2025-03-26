@@ -1,192 +1,112 @@
-<div align="center">
+# PROXY NIHIL
+
+> Web Developer | AI Engineer | Neural Network Specialist
+
+[![GitHub](https://img.shields.io/badge/GitHub-NIHILcoder-181717?style=flat-square&logo=github)](https://gist.github.com/NIHILcoder)
+[![Art Portfolio](https://img.shields.io/badge/Art-DeviantArt-00E59B?style=flat-square&logo=deviantart)](https://www.deviantart.com/velialnihilobscurum)
+[![Models](https://img.shields.io/badge/AI-CivitAI-1BACF4?style=flat-square)](https://civitai.com/user/nihiloff)
+
+## PROFESSIONAL PROFILE
+
+Software engineer specializing in web development and artificial intelligence technologies. 
+Strong technical background combining frontend and backend development with advanced machine 
+learning expertise. Focused on creating sophisticated web applications and AI systems that 
+push the boundaries of digital art generation and neural network implementation.
+
+## TECHNICAL EXPERTISE
+
+### Web Development
 
 ```
-P R O X Y   N I H I L
+Frontend         | Backend          | DevOps            | Design
+----------------|------------------|-------------------|------------------
+React.js        | Node.js          | Docker            | UI/UX Architecture
+Vue.js          | Express          | AWS               | Design Systems
+Next.js         | Django           | CI/CD Pipelines   | Figma
+TypeScript      | PostgreSQL       | Git               | Adobe Suite
+TailwindCSS     | MongoDB          | Linux             | Responsive Design
 ```
 
-<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" width="280" />
+### Artificial Intelligence
 
 ```
-/* SYSTEM BREACH DETECTED */
-/* ENTITY PROFILE LOADED */
-/* TERMINAL ACCESS: GRANTED */
+Frameworks       | Specializations  | Research Areas
+----------------|------------------|------------------
+PyTorch         | Image Generation | Neural Architecture
+TensorFlow      | Diffusion Models | Transfer Learning
+Keras           | Generative AI    | Computer Vision
+Stable Diffusion| Model Fine-tuning| Latent Space Analysis
+ComfyUI         | Data Processing  | AI Art Generation
 ```
 
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=flat-square&color=2E3440&labelColor=BF616A)](https://github.com/NIHILcoder)
-[![Security](https://img.shields.io/badge/SECURITY-MAXIMUM-4c566a?style=flat-square&color=2E3440&labelColor=5E81AC)](https://github.com/NIHILcoder)
-[![Surveillance](https://img.shields.io/badge/SURVEILLANCE-EVADING-ebcb8b?style=flat-square&color=2E3440&labelColor=EBCB8B)](https://github.com/NIHILcoder)
+## CURRENT PROJECTS
 
-</div>
+### VisioMera Web Application
 
-<br>
+Professional web application combining advanced frontend technologies with neural network backends. 
+VisioMera delivers sophisticated image processing capabilities through an intuitive user interface.
 
-```
-SYSTEM: Initializing neural interface...
-SYSTEM: Establishing secure connection...
-SYSTEM: Decrypting identity fragments...
-SYSTEM: Entity profile accessible.
-```
+**Technical Stack:**
+- Frontend: React/Next.js with TypeScript and TailwindCSS
+- Backend: Node.js/Express with custom AI processing modules
+- Database: PostgreSQL with Redis caching
+- AI Integration: Custom PyTorch pipelines for image transformation
+- Deployment: Docker containers with CI/CD automation
 
-## `01` ⚡ ENTITY IDENTIFICATION
+**Development Status:** Under active development (90% complete)
 
-```
-Digital shadow operating in multiple realms:
-- Web Architecture Engineer
-- Neural Network Architect
-- Reality Distortion Specialist
-- Digital Chaos Theorist
-```
+### Neural Art Framework
 
-<br>
+Proprietary system for AI-assisted art creation utilizing custom-trained models and specialized workflows.
 
-## `02` 🌐 NETWORK OPERATIONS
+**Key Components:**
+- Modified diffusion architecture with custom control systems
+- Advanced prompt engineering methodology
+- Fine-tuned models for specific aesthetic directions
+- Optimized inference pipelines
 
-<table>
-<tr>
-<td width="50%">
+**Public Interfaces:**
+- [Art Portfolio](https://www.deviantart.com/velialnihilobscurum)
+- [Model Repository](https://civitai.com/user/nihiloff)
 
-### `CORE VECTORS`
+## SKILLS OVERVIEW
 
-```
-01. Advanced Web Development
-02. AI Art Generation
-03. Neural System Architecture
-04. Data Manipulation
-05. Shadow System Integration
-```
+**Programming Languages:**
+- Expert: JavaScript, TypeScript, Python
+- Proficient: PHP, SQL, HTML/CSS
+- Familiar: C++, Rust, Go
 
-</td>
-<td width="50%">
+**Web Technologies:**
+- Frontend: React, Vue, Next.js, TailwindCSS, WebGL, Three.js
+- Backend: Node.js, Express, Django, FastAPI
+- Databases: PostgreSQL, MongoDB, Redis, GraphQL
 
-### `ACTIVE OPERATIONS`
+**AI & Machine Learning:**
+- Frameworks: PyTorch, TensorFlow, Keras
+- Techniques: GANs, Diffusion Models, Neural Networks
+- Tools: Jupyter, NumPy, Pandas, Scikit-learn
 
-```
-[!] VisioMera: Web-based reality distortion engine
-[!] Singularity Nexus: AI consciousness framework
-[!] Labyrinth Protocol: Digital footprint obfuscation
-```
+**Development Tools:**
+- Version Control: Git, GitHub
+- Deployment: Docker, Kubernetes, AWS, Vercel
+- Design: Figma, Adobe Suite
 
-</td>
-</tr>
-</table>
+## RESEARCH INTERESTS
 
-<br>
+- Web application architecture for AI-integrated systems
+- Neural network optimization for creative applications
+- Interface design for complex AI workflows
+- Latent space manipulation and visual synthesis
+- Cross-modal generation systems (visual-textual-audio)
 
-## `03` 💾 TECHNICAL ACCESS POINTS
+## CONTACT
 
-```python
-class SystemProfile:
-    def __init__(self):
-        # Web Development Arsenal
-        self.frontend = {
-            "core": ["React.js", "Vue.js", "TypeScript", "WebGL"],
-            "styling": ["TailwindCSS", "SCSS", "Motion Design"],
-            "emerging": ["Three.js", "WebAssembly", "WebXR"]
-        }
-        
-        self.backend = {
-            "frameworks": ["Node.js", "Django", "Flask", "Express"],
-            "database": ["PostgreSQL", "MongoDB", "Redis", "GraphQL"],
-            "architecture": ["Microservices", "Serverless", "WebSockets"]
-        }
-        
-        # AI Framework Access
-        self.neural_systems = {
-            "generation": ["Stable Diffusion", "ComfyUI", "GANs"],
-            "analysis": ["PyTorch", "TensorFlow", "Keras"],
-            "experimental": ["Reinforcement Learning", "Neural Architecture Search"]
-        }
-        
-        # System Integration Methods
-        self.deployment = ["Docker", "AWS", "Vercel", "GitHub Actions", "CI/CD"]
-        self.security = ["JWT", "OAuth", "Encryption", "Penetration Testing"]
-```
+[![Telegram](https://img.shields.io/badge/Telegram-@Proxy__Nihil-26A5E4?style=flat-square&logo=telegram)](https://t.me/Proxy_Nihil)
+[![GitHub](https://img.shields.io/badge/GitHub-NIHILcoder-181717?style=flat-square&logo=github)](https://gist.github.com/NIHILcoder)
+[![Email](https://img.shields.io/badge/Email-kostopravd@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kostopravd@gmail.com)
 
-<br>
-
-## `04` 🖥️ PROJECT MANIFESTS
-
-<details>
-<summary><b>VisioMera Web Application</b> // <i>CURRENTLY DEVELOPING</i></summary>
-<br>
-
-```
-PROJECT: VisioMera
-STATUS: [████████░░] 80% Complete
-ACCESS: Restricted
-
-DESCRIPTION:
-Reality-bending web application operating at the intersection of visual perception and neural technology. 
-Enables users to manipulate digital reality through advanced algorithmic interfaces. 
-Incorporates bleeding-edge web technologies with custom AI frameworks.
-
-TECHNICAL SPECIFICATIONS:
-- React.js frontend with WebGL rendering engine
-- Custom neural network backend for image processing
-- Real-time data transformation protocols
-- Encrypted user experience pathways
-
-OBJECTIVE:
-Disrupt conventional digital interaction paradigms through neuromorphic computing principles
-```
-
-</details>
-
-<details>
-<summary><b>Neural Art Generation Framework</b> // <i>OPERATIONAL</i></summary>
-<br>
-
-```
-PROJECT: [REDACTED]
-STATUS: Active Deployment
-ACCESS: By Invitation
-
-CAPABILITIES:
-- Reality distortion through latent space manipulation
-- Custom embedding techniques with encrypted signatures
-- Memetic pattern recognition and synthesis
-- Temporal coherence across generated sequences
-
-DEPLOYED INSTANCES:
-- [Link to evidence fragments](https://www.deviantart.com/velialnihilobscurum)
-- [Neural architecture repository](https://civitai.com/user/nihiloff)
-```
-
-</details>
-
-<details>
-<summary><b>Shadow Protocol</b> // <i>CLASSIFIED</i></summary>
-<br>
-
-```
-ACCESS DENIED
-
-Attempting to bypass security measures...
-Connection terminated.
-```
-
-</details>
-
-<br>
-
-## `05` 📡 COMMUNICATION VECTORS
+---
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/SECURE_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black&color=2E3440&labelColor=88C0D0)](https://t.me/Proxy_Nihil)
-[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=black&color=2E3440&labelColor=D8DEE9)](https://gist.github.com/NIHILcoder)
-[![Gmail](https://img.shields.io/badge/ENCRYPTED_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=black&color=2E3440&labelColor=BF616A)](mailto:kostopravd@gmail.com)
-
-</div>
-
-<br>
-
-```
-CONNECTION TERMINATED
-SESSION LOGS ENCRYPTED
-SYSTEM DORMANT UNTIL NEXT ACTIVATION
-```
-
-<div align="center">
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-DORMANT-BF616A?style=flat-square&color=2E3440&labelColor=BF616A">
+<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" width="1200" />
 </div>
