@@ -1,91 +1,192 @@
-# 🖤**Proxy Nihil**🖤
+<div align="center">
 
-I am a programmer and an AI artist specializing in creating artistic content using **dark** artificial intelligence technologies. My work involves utilizing tools like **ComfyUI** and **Stable Diffusion**, allowing me to blend programming skills with artistic expression. I am currently actively studying **Python** to enhance my development skills and broaden my capabilities in creating innovative projects.
+```
+P R O X Y   N I H I L
+```
 
-<div align="center"> 
-<img src="https://imgur.com/910B91H.png" style="zoom:110%;" />
+<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" width="280" />
+
+```
+/* SYSTEM BREACH DETECTED */
+/* ENTITY PROFILE LOADED */
+/* TERMINAL ACCESS: GRANTED */
+```
+
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00ff00?style=flat-square&color=2E3440&labelColor=BF616A)](https://github.com/NIHILcoder)
+[![Security](https://img.shields.io/badge/SECURITY-MAXIMUM-4c566a?style=flat-square&color=2E3440&labelColor=5E81AC)](https://github.com/NIHILcoder)
+[![Surveillance](https://img.shields.io/badge/SURVEILLANCE-EVADING-ebcb8b?style=flat-square&color=2E3440&labelColor=EBCB8B)](https://github.com/NIHILcoder)
+
 </div>
 
-<div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-    <div style="width: 20%; height: 13px; background-color: #00bcd4; border-radius: 5px;"></div>
+<br>
+
+```
+SYSTEM: Initializing neural interface...
+SYSTEM: Establishing secure connection...
+SYSTEM: Decrypting identity fragments...
+SYSTEM: Entity profile accessible.
+```
+
+## `01` ⚡ ENTITY IDENTIFICATION
+
+```
+Digital shadow operating in multiple realms:
+- Web Architecture Engineer
+- Neural Network Architect
+- Reality Distortion Specialist
+- Digital Chaos Theorist
+```
+
+<br>
+
+## `02` 🌐 NETWORK OPERATIONS
+
+<table>
+<tr>
+<td width="50%">
+
+### `CORE VECTORS`
+
+```
+01. Advanced Web Development
+02. AI Art Generation
+03. Neural System Architecture
+04. Data Manipulation
+05. Shadow System Integration
+```
+
+</td>
+<td width="50%">
+
+### `ACTIVE OPERATIONS`
+
+```
+[!] VisioMera: Web-based reality distortion engine
+[!] Singularity Nexus: AI consciousness framework
+[!] Labyrinth Protocol: Digital footprint obfuscation
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `03` 💾 TECHNICAL ACCESS POINTS
+
+```python
+class SystemProfile:
+    def __init__(self):
+        # Web Development Arsenal
+        self.frontend = {
+            "core": ["React.js", "Vue.js", "TypeScript", "WebGL"],
+            "styling": ["TailwindCSS", "SCSS", "Motion Design"],
+            "emerging": ["Three.js", "WebAssembly", "WebXR"]
+        }
+        
+        self.backend = {
+            "frameworks": ["Node.js", "Django", "Flask", "Express"],
+            "database": ["PostgreSQL", "MongoDB", "Redis", "GraphQL"],
+            "architecture": ["Microservices", "Serverless", "WebSockets"]
+        }
+        
+        # AI Framework Access
+        self.neural_systems = {
+            "generation": ["Stable Diffusion", "ComfyUI", "GANs"],
+            "analysis": ["PyTorch", "TensorFlow", "Keras"],
+            "experimental": ["Reinforcement Learning", "Neural Architecture Search"]
+        }
+        
+        # System Integration Methods
+        self.deployment = ["Docker", "AWS", "Vercel", "GitHub Actions", "CI/CD"]
+        self.security = ["JWT", "OAuth", "Encryption", "Penetration Testing"]
+```
+
+<br>
+
+## `04` 🖥️ PROJECT MANIFESTS
+
+<details>
+<summary><b>VisioMera Web Application</b> // <i>CURRENTLY DEVELOPING</i></summary>
+<br>
+
+```
+PROJECT: VisioMera
+STATUS: [████████░░] 80% Complete
+ACCESS: Restricted
+
+DESCRIPTION:
+Reality-bending web application operating at the intersection of visual perception and neural technology. 
+Enables users to manipulate digital reality through advanced algorithmic interfaces. 
+Incorporates bleeding-edge web technologies with custom AI frameworks.
+
+TECHNICAL SPECIFICATIONS:
+- React.js frontend with WebGL rendering engine
+- Custom neural network backend for image processing
+- Real-time data transformation protocols
+- Encrypted user experience pathways
+
+OBJECTIVE:
+Disrupt conventional digital interaction paradigms through neuromorphic computing principles
+```
+
+</details>
+
+<details>
+<summary><b>Neural Art Generation Framework</b> // <i>OPERATIONAL</i></summary>
+<br>
+
+```
+PROJECT: [REDACTED]
+STATUS: Active Deployment
+ACCESS: By Invitation
+
+CAPABILITIES:
+- Reality distortion through latent space manipulation
+- Custom embedding techniques with encrypted signatures
+- Memetic pattern recognition and synthesis
+- Temporal coherence across generated sequences
+
+DEPLOYED INSTANCES:
+- [Link to evidence fragments](https://www.deviantart.com/velialnihilobscurum)
+- [Neural architecture repository](https://civitai.com/user/nihiloff)
+```
+
+</details>
+
+<details>
+<summary><b>Shadow Protocol</b> // <i>CLASSIFIED</i></summary>
+<br>
+
+```
+ACCESS DENIED
+
+Attempting to bypass security measures...
+Connection terminated.
+```
+
+</details>
+
+<br>
+
+## `05` 📡 COMMUNICATION VECTORS
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/SECURE_CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=black&color=2E3440&labelColor=88C0D0)](https://t.me/Proxy_Nihil)
+[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=black&color=2E3440&labelColor=D8DEE9)](https://gist.github.com/NIHILcoder)
+[![Gmail](https://img.shields.io/badge/ENCRYPTED_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=black&color=2E3440&labelColor=BF616A)](mailto:kostopravd@gmail.com)
+
 </div>
 
--------------
+<br>
 
-## 🌑 Interests
+```
+CONNECTION TERMINATED
+SESSION LOGS ENCRYPTED
+SYSTEM DORMANT UNTIL NEXT ACTIVATION
+```
 
-- **Artificial Intelligence**: Exploring algorithms that mimic human cognition and learning.
-- **Generative Art**: Creating art through algorithmic processes and randomization.
-- **Python and Machine Learning**: Utilizing Python for data analysis and building predictive models.
-
-----------------------------
-
-
-
-## ⚙️ Tech Stack
-
-- **Python**: I use it to develop machine learning and neural network models.
-- **Stable Diffusion и ComfyUI**: Basic tools for generating images from text descriptions.
-<div align="center"> 
-<img src="https://imgur.com/7t1zyEL.png" style="zoom:11;" />
+<div align="center">
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-DORMANT-BF616A?style=flat-square&color=2E3440&labelColor=BF616A">
 </div>
-
-----------------------------
-
-
-
- ## 🤠My Skill Set
-
-| **AI Tools**                                                 | **Programming Languages**                                    | **Machine Learning**                                         | **Fronted**                                                  | **Other Tools**                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/ComfyUI_Logo.png" alt="ComfyUI" title=" alt=&quot;Python&quot; style=&quot;widht:25%;&quot;" style=" width=50" height="50;" /><img src="https://cdn2.steamgriddb.com/icon/0a8e9d1cf3ee0af0e6526059e1ac59d1/32/256x256.png" alt="Stable Diffusion" style=" width=50" height="50;" /> | <img src="https://user-images.githubusercontent.com/72181445/168416803-354444e8-8b27-4b31-ab3b-83a36d08cc51.png" style=" width=50" height="50;" /><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" style=" width=50" height="50;" /><img src="https://miladfathy.gallerycdn.vsassets.io/extensions/miladfathy/js-snippet/0.0.3/1620337479564/Microsoft.VisualStudio.Services.Icons.Default" style=" width=50" height="50;" /><img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="C++" style=" width=50" height="50" /><img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="C++" style=" width=50" height="50;" /><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="C++" style=" width=50" height="50;" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/512px-Keras_logo.svg.png" alt="Keras" style=" width=50" height="50;" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png" style=" width=50" height="50;" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="PyTorch" style=" width=50" height="50;" /> | <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000r" alt="Git" style=" width=50" height="50;" /><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="Git" style=" width=50" height="50" /> | <img src="https://gitlab.com/e.s.s.e.e.system/test_project_2/-/avatar" alt="Git" style=" width=50" height="50" /> |
-
-----------------------------
-
-
-
-## 🧠 Neural Networks
-
-| **Tool/Framework** | **Usage**                 |
-| ------------------ | ------------------------- |
-| Stable Diffusion   | Image generation          |
-| ComfyUI            | User interface for models |
-| TensorFlow         | General machine learning  |
-| PyTorch            | Research & development    |
-
-----------------------------
-
-
-
-  ## 🗂️ Projects
-
-| **Projects**       | **Description**                                             |
-| ------------------ | ----------------------------------------------------------- |
-| 🖌️ AI Art Generator | [DevianArt](https://www.deviantart.com/velialnihilobscurum) |
-| 🔍 Model Learning   | [CivitAI](https://civitai.com/user/nihiloff)                |
-
-----------------------------
-
-
-
-## 🚀 Future Projects and Goals
-
-| Project Name      | Description                                                |
-| ----------------- | ---------------------------------------------------------- |
-| AI Music Composer | Developing a neural network to create music based on moods |
-| 3D Art Generator  | Experimenting with generating 3D models using AI           |
-
-----------------------------
-
-
-
-## 📫 Connect with Me
-
-| **Contact**                          |
-| ------------------------------------ |
-| [Telegram](https://t.me/Proxy_Nihil) |
-| [Gist.Github](https://gist.github.com/NIHILcoder)|
-| [Gmail](kostopravd@gmail.com)        |
----
-
-<img src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" alt="Alt text" style=" width=300" height="500" />
