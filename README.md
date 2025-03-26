@@ -101,7 +101,7 @@ Proprietary system for AI-assisted art creation utilizing custom-trained models 
 
 ## CONTACT
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Proxy__Nihil-26A5E4?style=flat-square&logo=telegram)](https://t.me/Proxy_Nihil)
+[![Telegram](https://img.shields.io/badge/Telegram-@Proxy__Nihil-26A5E4?style=flat-square&logo=telegram)](https://t.me/Proxy_Nihil_1844_0)
 [![GitHub](https://img.shields.io/badge/GitHub-NIHILcoder-181717?style=flat-square&logo=github)](https://gist.github.com/NIHILcoder)
 [![Email](https://img.shields.io/badge/Email-kostopravd@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:kostopravd@gmail.com)
 
