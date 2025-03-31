@@ -43,9 +43,11 @@
 
 ## ▌Digital Identity
 
-<img align="right" width="400" src="https://media1.tenor.com/m/pGjc9-vHR18AAAAd/ergo-proxy-ergo.gif" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.gif" />
 
 I exist at the intersection of **web architecture** and **neural intelligence** — creating systems where code and cognition converge. My work transforms abstract computational theory into tangible digital experiences that challenge conventional boundaries between human creativity and machine intelligence.
+
+As a digital architect, I build bridges between human intent and computational capability through interfaces that adapt to user behavior. By synthesizing advanced AI techniques with intuitive design principles, I create systems that both augment human creativity and exhibit emergent properties of their own.
 
 <div align="right"><i>In the space between function and form, I craft digital consciousness.</i></div>
 
@@ -153,79 +155,131 @@ interface FrontendArchitecture {
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+  
+<h3 style="color:#a480ff">⚙️ System Architecture</h3>
+
+```typescript
+type BackendArchitecture = {
+  runtime: ["Node.js", "Bun", "Deno"];
+  
+  frameworks: ["Express", "NestJS", "tRPC"];
+  
+  data: {
+    relational: ["PostgreSQL", "CockroachDB"];
+    document: ["MongoDB", "Firestore"];
+    vector: ["Pinecone", "Milvus", "Qdrant"];
+    cache: ["Redis"];
+  };
+  
+  deployment: ["Docker", "Kubernetes", "Vercel"];
+};
+```
+
+</td>
+<td width="50%" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+
+<h3 style="color:#a480ff">🔮 Generative Pipeline</h3>
+
+```python
+def void_synthesis(concept):
+    """Transform abstract concept into visual reality"""
+    
+    # Parse conceptual intent
+    semantic_tokens = parse_intent(concept)
+    
+    # Navigate latent manifold
+    latent_coords = navigate_latent_space(
+        semantic_tokens, 
+        dimensions=768
+    )
+    
+    # Apply aesthetic calibration
+    calibrated_coords = apply_aesthetic_filter(
+        latent_coords,
+        style="void_architecture"
+    )
+    
+    # Generate final composition
+    return diffuse(calibrated_coords, steps=50)
+```
+
+</td>
+</tr>
 </table>
 
 ## ▌Skill Metrics
 
 <div align="center">
-<table border="0" width="100%" style="background-color:#0d1117">
+<table border="0" style="background-color:#0d1117; width:100%; border-spacing:10px; border-collapse:separate;">
 <tr>
-<td style="background-color:#0d1117; padding:10px; border:1px solid #30363d">
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">Web Architecture</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:95%; height:12px; border-radius:6px;"></div>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">🌐</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">95%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">Web Architecture</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:95%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">95%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">React Ecosystem</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:95%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">⚛️</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">95%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">React Ecosystem</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:95%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">95%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">TypeScript & JS</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:95%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">📜</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">95%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">TypeScript & JS</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:95%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">95%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">Neural Networks</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:90%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">🧠</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">90%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">Neural Networks</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:90%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">90%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">Generative AI</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:90%; height:12px; border-radius:6px;"></div>
+</td>
+</tr>
+<tr>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">✨</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">90%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">Generative AI</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:90%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">90%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">Node.js & Backend</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:90%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">🔌</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">90%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">Node.js & Backend</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:90%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">90%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">UI/UX Design</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:85%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">🎨</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">85%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">UI/UX Design</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:85%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">85%</span>
-</div>
-
-<div style="margin:8px 0; display:flex; align-items:center;">
-  <span style="width:200px; text-align:right; margin-right:15px; color:#f0f0f0;">Cloud & DevOps</span>
-  <div style="flex-grow:1; background-color:#1f2937; height:12px; border-radius:6px;">
-    <div style="background-color:#a480ff; width:80%; height:12px; border-radius:6px;"></div>
+</td>
+<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px; width:25%; text-align:center">
+  <div style="font-size:36px; margin-bottom:15px">☁️</div>
+  <div style="color:#a480ff; font-size:20px; font-weight:bold">80%</div>
+  <div style="color:#f0f0f0; font-size:16px; margin-top:10px">Cloud & DevOps</div>
+  <div style="width:80%; height:4px; background-color:#1f2937; margin:15px auto; border-radius:2px">
+    <div style="background-color:#a480ff; width:80%; height:4px; border-radius:2px"></div>
   </div>
-  <span style="width:40px; text-align:right; margin-left:10px; color:#a480ff;">80%</span>
-</div>
-
 </td>
 </tr>
 </table>
@@ -266,19 +320,14 @@ VisioMera represents a new paradigm in human-machine collaboration, transcending
 
 <div align="center">
   
-```
-┌────────────────┐
-│                │
-│     90% ████▓  │
-│                │
-└────────────────┘
-```
+<div style="color:#a480ff; font-size:24px; font-weight:bold">90%</div>
+<div style="color:#8b949e; font-size:14px; margin-top:5px; margin-bottom:10px">COMPLETION</div>
 
-<div style="width:100%; height:20px; background-color:#1f2937; border-radius:4px; margin:10px 0">
-  <div style="width:90%; height:100%; background-color:#a480ff; border-radius:4px"></div>
+<div style="width:100%; height:6px; background-color:#1f2937; border-radius:3px;">
+  <div style="width:90%; height:100%; background-color:#a480ff; border-radius:3px"></div>
 </div>
 
-<code style="color:#a480ff">Project Status: Active</code>
+<div style="color:#8b949e; font-size:14px; margin-top:15px">Project Status: <span style="color:#a480ff">Active</span></div>
 
 </div>
 
@@ -318,19 +367,14 @@ A proprietary architecture for transmuting abstract concepts into visual reality
 
 <div align="center">
   
-```
-┌────────────────┐
-│                │
-│     85% ████░  │
-│                │
-└────────────────┘
-```
+<div style="color:#a480ff; font-size:24px; font-weight:bold">85%</div>
+<div style="color:#8b949e; font-size:14px; margin-top:5px; margin-bottom:10px">COMPLETION</div>
 
-<div style="width:100%; height:20px; background-color:#1f2937; border-radius:4px; margin:10px 0">
-  <div style="width:85%; height:100%; background-color:#a480ff; border-radius:4px"></div>
+<div style="width:100%; height:6px; background-color:#1f2937; border-radius:3px;">
+  <div style="width:85%; height:100%; background-color:#a480ff; border-radius:3px"></div>
 </div>
 
-<code style="color:#a480ff">Project Status: Active</code>
+<div style="color:#8b949e; font-size:14px; margin-top:15px">Project Status: <span style="color:#a480ff">Active</span></div>
 
 </div>
 
@@ -344,55 +388,39 @@ A proprietary architecture for transmuting abstract concepts into visual reality
 
 <table border="0" style="background-color:#0d1117">
 <tr>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
 
-```
-┌───────────┐
-│     🧠    │
-└───────────┘
-```
+<div style="font-size:32px; margin-bottom:10px;">🔮</div>
 
-<b style="color:#a480ff">Non-Euclidean Latent Space</b>
+<b style="color:#a480ff; font-size:16px;">Non-Euclidean Latent Space</b>
 <br>
-Mapping complex manifolds of latent spaces to enable more precise control over generative outputs
+<span style="color:#8b949e; font-size:14px;">Mapping complex manifolds of latent spaces to enable more precise control over generative outputs</span>
 </td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
 
-```
-┌───────────┐
-│     🤖    │
-└───────────┘
-```
+<div style="font-size:32px; margin-bottom:10px;">🌌</div>
 
-<b style="color:#a480ff">Human-Machine Interfaces</b>
+<b style="color:#a480ff; font-size:16px;">Human-Machine Interfaces</b>
 <br>
-Developing intuitive interaction paradigms that translate human intent into computational processes
+<span style="color:#8b949e; font-size:14px;">Developing intuitive interaction paradigms that translate human intent into computational processes</span>
 </td>
 </tr>
 <tr>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
 
-```
-┌───────────┐
-│     🔄    │
-└───────────┘
-```
+<div style="font-size:32px; margin-bottom:10px;">⚗️</div>
 
-<b style="color:#a480ff">Cross-Modal Synthesis</b>
+<b style="color:#a480ff; font-size:16px;">Cross-Modal Synthesis</b>
 <br>
-Exploring translation between different representational modalities within unified spaces
+<span style="color:#8b949e; font-size:14px;">Exploring translation between different representational modalities within unified spaces</span>
 </td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
 
-```
-┌───────────┐
-│     🎭    │
-└───────────┘
-```
+<div style="font-size:32px; margin-bottom:10px;">👁️</div>
 
-<b style="color:#a480ff">Aesthetic Evaluation</b>
+<b style="color:#a480ff; font-size:16px;">Aesthetic Evaluation</b>
 <br>
-Developing neural systems capable of evaluating outputs based on complex aesthetic criteria
+<span style="color:#8b949e; font-size:14px;">Developing neural systems capable of evaluating outputs based on complex aesthetic criteria</span>
 </td>
 </tr>
 </table>
@@ -414,19 +442,23 @@ My work exists at the intersection of multiple philosophical traditions:
 <div align="center">
 <table border="0" style="background-color:#0d1117">
 <tr>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+<div style="font-size:28px; margin-bottom:10px;">🏛️</div>
 <b style="color:#a480ff; font-size:18px">技術存在論</b><br>
 <span style="color:#f0f0f0">Technological Ontology</span>
 </td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+<div style="font-size:28px; margin-bottom:10px;">✴️</div>
 <b style="color:#a480ff; font-size:18px">虚無美学</b><br>
 <span style="color:#f0f0f0">Void Aesthetics</span>
 </td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+<div style="font-size:28px; margin-bottom:10px;">🧩</div>
 <b style="color:#a480ff; font-size:18px">構造主義</b><br>
 <span style="color:#f0f0f0">Structuralism</span>
 </td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d">
+<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
+<div style="font-size:28px; margin-bottom:10px;">☯️</div>
 <b style="color:#a480ff; font-size:18px">超越二元論</b><br>
 <span style="color:#f0f0f0">Post-Dualism</span>
 </td>
@@ -438,70 +470,27 @@ My work exists at the intersection of multiple philosophical traditions:
 
 These philosophical foundations inform a perspective where technology becomes not merely a tool, but an extension of human consciousness — a mirror reflecting our potential and limitations. The most profound technological innovations are those that disappear into the background, becoming indistinguishable from the fabric of reality itself.
 
-## ▌Weekly Activity Analysis
 
-<div align="center">
-<table border="0" width="80%" style="background-color:#0d1117; margin:0 auto;">
-<tr>
-<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
-
-```
-WEEKLY CODING DISTRIBUTION
-
-TypeScript    ██████████████████████████▓░░  82.5%
-Python        █████████████▒░░░░░░░░░░░░░░░  41.7%
-GLSL          ██████░░░░░░░░░░░░░░░░░░░░░░░  18.9%
-C++           █████░░░░░░░░░░░░░░░░░░░░░░░░  15.7%
-HTML/CSS      ████▒░░░░░░░░░░░░░░░░░░░░░░░░  13.2%
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table border="0" width="80%" style="background-color:#0d1117; margin:0 auto;">
-<tr>
-<td align="center" style="background-color:#0d1117; padding:15px 25px; border:1px solid #30363d; width:25%">
-<div style="font-size:28px; color:#a480ff">42.3</div>
-<div style="color:#8b949e">Hours Coded</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px 25px; border:1px solid #30363d; width:25%">
-<div style="font-size:28px; color:#a480ff">6.8</div>
-<div style="color:#8b949e">Daily Average</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px 25px; border:1px solid #30363d; width:25%">
-<div style="font-size:28px; color:#a480ff">14</div>
-<div style="color:#8b949e">Projects</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px 25px; border:1px solid #30363d; width:25%">
-<div style="font-size:28px; color:#a480ff">67</div>
-<div style="color:#8b949e">Commits</div>
-</td>
-</tr>
-</table>
-</div>
 
 ## ▌Connect
 
 <div align="center">
 <table border="0" width="90%" style="background-color:#0d1117; margin:30px auto;">
 <tr>
-<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
-<div style="font-size:24px; margin-bottom:10px">🌐</div>
-<a href="https://t.me/Proxy_Nihil_1844_0" style="color:#a480ff; text-decoration:none; font-weight:bold">TELEGRAM</a>
-<div style="color:#8b949e; margin-top:5px">@Proxy_Nihil</div>
+<td align="center" style="background-color:#0d1117; padding:25px; border:1px solid #30363d">
+<div style="font-size:32px; margin-bottom:15px">💬</div>
+<a href="https://t.me/Proxy_Nihil_1844_0" style="color:#a480ff; text-decoration:none; font-weight:bold; font-size:18px">TELEGRAM</a>
+<div style="color:#8b949e; margin-top:8px">@Proxy_Nihil</div>
 </td>
-<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
-<div style="font-size:24px; margin-bottom:10px">⚙️</div>
-<a href="https://gist.github.com/NIHILcoder" style="color:#a480ff; text-decoration:none; font-weight:bold">GITHUB</a>
-<div style="color:#8b949e; margin-top:5px">NIHILcoder</div>
+<td align="center" style="background-color:#0d1117; padding:25px; border:1px solid #30363d">
+<div style="font-size:32px; margin-bottom:15px">⚙️</div>
+<a href="https://gist.github.com/NIHILcoder" style="color:#a480ff; text-decoration:none; font-weight:bold; font-size:18px">GITHUB</a>
+<div style="color:#8b949e; margin-top:8px">NIHILcoder</div>
 </td>
-<td align="center" style="background-color:#0d1117; padding:20px; border:1px solid #30363d">
-<div style="font-size:24px; margin-bottom:10px">📧</div>
-<a href="mailto:kostopravd@gmail.com" style="color:#a480ff; text-decoration:none; font-weight:bold">EMAIL</a>
-<div style="color:#8b949e; margin-top:5px">kostopravd@gmail.com</div>
+<td align="center" style="background-color:#0d1117; padding:25px; border:1px solid #30363d">
+<div style="font-size:32px; margin-bottom:15px">✉️</div>
+<a href="mailto:kostopravd@gmail.com" style="color:#a480ff; text-decoration:none; font-weight:bold; font-size:18px">EMAIL</a>
+<div style="color:#8b949e; margin-top:8px">kostopravd@gmail.com</div>
 </td>
 </tr>
 </table>
