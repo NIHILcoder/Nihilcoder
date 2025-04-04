@@ -28,7 +28,6 @@
   
 [![Telegram](https://img.shields.io/badge/TELEGRAM-@Proxy__Nihil-a480ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Proxy_Nihil_1844_0)
 [![GitHub](https://img.shields.io/badge/NIHIL.CODE-a480ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)](https://gist.github.com/NIHILcoder)
-[![DeviantArt](https://img.shields.io/badge/NIHIL.GALLERY-a480ff?style=for-the-badge&logo=deviantart&logoColor=ffffff&labelColor=0D1117)](https://www.deviantart.com/velialnihilobscurum)
 [![CivitAI](https://img.shields.io/badge/NIHIL.MODELS-a480ff?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=0D1117)](https://civitai.com/user/nihiloff)
   
 </div>
