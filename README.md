@@ -70,23 +70,6 @@ As a digital architect, I build bridges between human intent and computational c
 <div align="center">
 <table border="0" style="background-color:#0d1117; width:80%; margin:20px auto; border-spacing:0; border-collapse:separate;">
 <tr>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d; border-radius:8px; width:25%">
-<div style="font-size:24px; color:#a480ff; font-weight:bold">1,493</div>
-<div style="color:#8b949e">Contributions</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d; border-radius:8px; width:25%">
-<div style="font-size:24px; color:#a480ff; font-weight:bold">247</div>
-<div style="color:#8b949e">Days Active</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d; border-radius:8px; width:25%">
-<div style="font-size:24px; color:#a480ff; font-weight:bold">38</div>
-<div style="color:#8b949e">Repositories</div>
-</td>
-<td align="center" style="background-color:#0d1117; padding:15px; border:1px solid #30363d; border-radius:8px; width:25%">
-<div style="font-size:24px; color:#a480ff; font-weight:bold">94</div>
-<div style="color:#8b949e">Current Streak</div>
-</td>
-</tr>
 </table>
 </div>
 
