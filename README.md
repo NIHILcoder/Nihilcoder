@@ -73,56 +73,6 @@ As a digital architect, I build bridges between human intent and computational c
 </table>
 </div>
 
-<div align="center">
-<table border="0" style="background-color:#0d1117; width:80%; margin:0 auto;">
-<tr>
-<td style="background-color:#0d1117; padding:20px; border:1px solid #30363d; border-radius:8px;">
-  <div style="font-size:18px; color:#a480ff; font-weight:bold; margin-bottom:15px; text-align:center">Language Distribution</div>
-  
-  <div style="display:flex; align-items:center; margin:8px 0;">
-    <div style="width:110px; text-align:right; color:#f0f0f0; margin-right:10px;">TypeScript</div>
-    <div style="flex-grow:1; height:18px; background-color:#1f2937; border-radius:4px; position:relative;">
-      <div style="position:absolute; top:0; left:0; width:78.3%; height:100%; background-color:rgba(164, 128, 255, 0.7); border-radius:4px;"></div>
-    </div>
-    <div style="width:50px; text-align:right; color:#f0f0f0; margin-left:10px;">78.3%</div>
-  </div>
-  
-  <div style="display:flex; align-items:center; margin:8px 0;">
-    <div style="width:110px; text-align:right; color:#f0f0f0; margin-right:10px;">Python</div>
-    <div style="flex-grow:1; height:18px; background-color:#1f2937; border-radius:4px; position:relative;">
-      <div style="position:absolute; top:0; left:0; width:42.1%; height:100%; background-color:rgba(164, 128, 255, 0.7); border-radius:4px;"></div>
-    </div>
-    <div style="width:50px; text-align:right; color:#f0f0f0; margin-left:10px;">42.1%</div>
-  </div>
-  
-  <div style="display:flex; align-items:center; margin:8px 0;">
-    <div style="width:110px; text-align:right; color:#f0f0f0; margin-right:10px;">C++</div>
-    <div style="flex-grow:1; height:18px; background-color:#1f2937; border-radius:4px; position:relative;">
-      <div style="position:absolute; top:0; left:0; width:18.7%; height:100%; background-color:rgba(164, 128, 255, 0.7); border-radius:4px;"></div>
-    </div>
-    <div style="width:50px; text-align:right; color:#f0f0f0; margin-left:10px;">18.7%</div>
-  </div>
-  
-  <div style="display:flex; align-items:center; margin:8px 0;">
-    <div style="width:110px; text-align:right; color:#f0f0f0; margin-right:10px;">GLSL</div>
-    <div style="flex-grow:1; height:18px; background-color:#1f2937; border-radius:4px; position:relative;">
-      <div style="position:absolute; top:0; left:0; width:15.9%; height:100%; background-color:rgba(164, 128, 255, 0.7); border-radius:4px;"></div>
-    </div>
-    <div style="width:50px; text-align:right; color:#f0f0f0; margin-left:10px;">15.9%</div>
-  </div>
-  
-  <div style="display:flex; align-items:center; margin:8px 0;">
-    <div style="width:110px; text-align:right; color:#f0f0f0; margin-right:10px;">HTML/CSS</div>
-    <div style="flex-grow:1; height:18px; background-color:#1f2937; border-radius:4px; position:relative;">
-      <div style="position:absolute; top:0; left:0; width:14.2%; height:100%; background-color:rgba(164, 128, 255, 0.7); border-radius:4px;"></div>
-    </div>
-    <div style="width:50px; text-align:right; color:#f0f0f0; margin-left:10px;">14.2%</div>
-  </div>
-</td>
-</tr>
-</table>
-</div>
-
 ## ▌GitHub Achievements
 
 <div align="center">
