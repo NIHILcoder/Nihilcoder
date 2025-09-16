@@ -248,14 +248,6 @@ Neural Efficiency: 40% computational overhead reduction
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  NEURAL RESEARCH FACILITY - 2025                ║
-║                   Classification: VOID ACCESS                   ║
-║                  Active Experiments: 8 Running                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ### Current Research Tracks
