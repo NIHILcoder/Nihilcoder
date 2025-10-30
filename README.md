@@ -1,50 +1,45 @@
+<div align="center">PROXY NIHIL
 
----
+AI-Driven Full-Stack Engineer
+Building intelligent systems with Python, TypeScript, and Rust
 
-<div align="center">
-
-# PROXY NIHIL
-
-**AI-Driven Full-Stack Engineer**  
-Building intelligent systems with **Python**, **TypeScript**, and **Rust**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NIHILcoder&style=for-the-badge&color=a480ff)](https://github.com/NIHILcoder)
-[![GitHub followers](https://img.shields.io/github/followers/NIHILcoder?label=Neural+Network&style=for-the-badge&color=a480ff)](https://github.com/NIHILcoder?tab=followers)
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/NIHILcoder/Vizitka?style=for-the-badge&color=a480ff&label=Code+Frequency)](https://github.com/NIHILcoder)
+  
 
 </div>
+---
+
+Core Profile
+
+Full-Stack / AI Application Engineer
+Focused on developing AI-powered web systems, integrating backend intelligence with modern frontend technologies. Experienced in designing scalable APIs, data-driven applications, and interactive user interfaces.
+
+Areas of Expertise
+
+AI Integration: LLMs, embeddings, and retrieval-augmented generation pipelines using Python
+
+Backend Engineering: FastAPI, PostgreSQL, Redis, Docker, CI/CD
+
+Frontend Development: TypeScript, React, Next.js, Tailwind, tRPC
+
+Performance Optimization: Rust/Python modules, asynchronous pipelines, WebAssembly
+
+
 
 ---
 
-## 🎯 Core Profile
-
-**Full-Stack / AI Application Engineer**  
-Fusing backend intelligence and frontend experience.  
-Currently focused on building **AI-powered web systems** — from model APIs in **FastAPI** to real-time **Next.js** interfaces.
-
-### 🧩 What I Do
-- 🧠 **AI Integration:** LLMs, embeddings, and RAG pipelines with Python  
-- ⚙️ **Backend Engineering:** FastAPI · PostgreSQL · Redis · Docker · CI/CD  
-- 🌐 **Frontend Development:** TypeScript · React · Next.js · Tailwind · tRPC  
-- 🚀 **Performance:** Rust/Python modules · async pipelines · WASM experiments  
-
----
-
-## ⚡ Tech Stack
+Technical Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%">Backend and AI
 
-#### 🐍 Backend / AI
-```yaml
 Languages: Python, Rust
 Frameworks: FastAPI, PyTorch, LangChain
 Databases: PostgreSQL, Redis
 DevOps: Docker, GitHub Actions, CI/CD
 
 </td>
-<td valign="top" width="50%">🌐 Frontend
+<td valign="top" width="50%">Frontend
 
 Languages: TypeScript, JavaScript
 Frameworks: React, Next.js, tRPC
@@ -56,22 +51,20 @@ Realtime: WebSocket, WebRTC
 </table>
 ---
 
-🚀 Featured Project: VisioMera
+Featured Project: VisioMera
 
-> AI-Powered Creative Interface
-Next.js + FastAPI + Postgres + Rust acceleration
+AI-Powered Creative Interface
+Next.js, FastAPI, PostgreSQL, Rust Acceleration
 
-
-
-Highlights:
+Key Highlights:
 
 Sub-300 ms AI inference pipeline (FastAPI + PyTorch + Rust module)
 
-Multi-modal input (text, image, audio) → visual output
+Multi-modal input (text, image, audio) to visual output
 
 WebSocket-based real-time collaboration
 
-Dockerized deployment, observability, CI/CD
+Containerized deployment and CI/CD integration
 
 
 Architecture:
@@ -85,35 +78,35 @@ Architecture:
 
 ---
 
-🧠 Focus Areas
+Focus Areas
 
-AI-enabled SaaS & Tools — RAG systems, content generation, intelligent automation
+AI-enabled SaaS and Tools – retrieval-augmented generation, content generation, automation
 
-Full-Stack Web Systems — FastAPI + Next.js · Postgres · Docker
+Full-Stack Web Systems – FastAPI, Next.js, PostgreSQL, Docker
 
-Human–AI Interaction — Interfaces that merge creativity and computation
+Human–AI Interaction – intelligent and creative interface design
 
-Optimization — Async pipelines, caching, Rust acceleration, low-latency APIs
+Optimization – asynchronous pipelines, caching, Rust acceleration, low-latency APIs
 
 
 
 ---
 
-🧩 Toolchain & Workflow
+Toolchain and Workflow
 
 Domain	Tools
 
 Version Control	Git, GitHub Projects
 Testing	pytest, Vitest, Playwright
 Monitoring	Prometheus, Grafana, OpenTelemetry
-Cloud / Deploy	Render, Railway, Fly.io, Vercel
+Cloud / Deployment	Render, Railway, Fly.io, Vercel
 Design	Figma, Blender, Adobe Suite
 
 
 
 ---
 
-📈 GitHub Metrics
+GitHub Metrics
 
 <div align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NIHILcoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a480ff&icon_color=a480ff"/>
@@ -121,27 +114,25 @@ Design	Figma, Blender, Adobe Suite
 </div>
 ---
 
-🤝 Collaboration
+Collaboration
 
-Currently open for:
+Open for:
 
-💼 Full-Stack / AI Engineering roles (remote · contract · product)
+Full-Stack or AI Engineering roles (remote, contract, or product-based)
 
-🧠 AI Integration consulting — RAG, LLM, LangChain, FastAPI pipelines
+AI Integration Consulting – RAG, LLM, LangChain, FastAPI pipelines
 
-🎨 Creative tech collaborations — generative media & interactive AI tools
+Creative Technology Collaborations – generative media and interactive AI tools
 
 
-📫 Contact:
+Contact:
 
 
 
 
 ---
 
-<div align="center">"Merging computation and consciousness through code."
-Building intelligent systems with clarity, speed, and creativity.
+<div align="center">“Merging computation and consciousness through code.”
+Developing intelligent systems with precision, scalability, and creativity.
 
 </div>
-```
----
