@@ -5,6 +5,8 @@ Building intelligent systems with Python, TypeScript, and Rust
 
   
 
+  
+
 </div>
 ---
 
@@ -126,6 +128,7 @@ Creative Technology Collaborations – generative media and interactive AI tools
 
 
 Contact:
+
 
 
 
