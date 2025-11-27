@@ -32,6 +32,8 @@ I combine **advanced frontend engineering** with **practical machine learning** 
 
 <div align="center">
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -41,6 +43,8 @@ I combine **advanced frontend engineering** with **practical machine learning** 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NIHILcoder&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
 
 ### 🔵 Frontend (Primary)
 ```yaml
