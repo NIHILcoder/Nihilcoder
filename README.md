@@ -32,6 +32,16 @@ I combine **advanced frontend engineering** with **practical machine learning** 
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NIHILcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIHILcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NIHILcoder&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ### 🔵 Frontend (Primary)
 ```yaml
 Core:
@@ -150,18 +160,6 @@ Backend:
 - 👁 **Real-time visual previews** with progressive rendering  
 - 🔄 **Hybrid engine**: browser ML + Python API for heavy tasks  
 - 👥 **Collaborative mode** via WebSockets  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NIHILcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIHILcoder&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NIHILcoder&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
