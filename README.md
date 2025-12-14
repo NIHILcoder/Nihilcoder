@@ -169,25 +169,25 @@ Backend:
 
 ## 🗺️ Roadmap 2025–2026 (Frontend + ML Direction)
 
-### ✅ Browser ML
-- [ ] WebGPU acceleration for LLM inference  
-- [ ] Add on-device multimodal pipelines (image/text/audio)  
-- [ ] WASM runtime for diffusion-lite model  
+### [✅] TorrentHunt
+- [ ] ???  
+- [ ] ???  
+- [ ] ???  
 
-### ✅ Frontend Innovation
-- [ ] Fully-streaming UI for AI apps (RSC)  
-- [ ] Advanced visualization tools (Canvas + WebGL)  
-- [ ] AI-driven UI personalization  
+### [?] ???
+- [ ] ???  
+- [ ] ???  
+- [ ] ???  
 
-### ✅ AI Integration
-- [ ] RAG chat with visual memory  
-- [ ] Smart prompting helpers inside UI  
-- [ ] Audio-to-visual creative mode  
+### [?] ???
+- [ ] ???  
+- [ ] ???  
+- [ ] ???  
 
-### ✅ Infrastructure
-- [ ] CI/CD + automated preview builds  
-- [ ] Load testing for streaming features  
-- [ ] Vector database improvements  
+### [?] ???
+- [ ] ???  
+- [ ] ???  
+- [ ] ???  
 
 ---
 
