@@ -195,10 +195,10 @@ Backend:
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)]()
-[![CivitAI](https://img.shields.io/badge/CivitAI-FF6B6B?style=for-the-badge)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PRXNHL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dima.nihil@yandex.ru)
+[![CivitAI](https://img.shields.io/badge/CivitAI-FF6B6B?style=for-the-badge)](https://civitai.com/user/nihiloff)
+
 
 </div>
 
