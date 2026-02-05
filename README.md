@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NIHILcoder&style=for-the-badge&color=a480ff)]()
 [![GitHub followers](https://img.shields.io/github/followers/NIHILcoder?label=Followers&style=for-the-badge&color=a480ff)]()
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/NIHILcoder/Vizitka?style=for-the-badge&color=a480ff&label=Commits)]()
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/NIHILcoder/TorrentHunt?style=for-the-badge&color=a480ff&label=Commits)]()
 
 </div>
 
